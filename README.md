@@ -17,7 +17,6 @@ The source code is published for knowledge sharing purposes.
 
 
 # Used components
-
 * react-native
 * redux
 * d3.js (interpolate, scale, shape)
