@@ -16,6 +16,7 @@ The source code is published for knowledge sharing purposes.
 * [Download from AppStore](https://itunes.apple.com/us/app/zowni/id1140299292?ls=1&mt=8)
 
 
+
 # Used components
 * react-native
 * redux
